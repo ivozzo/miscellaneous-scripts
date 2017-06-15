@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sudo /usr/share/acpi_call/examples/turn_off_gpu.sh
